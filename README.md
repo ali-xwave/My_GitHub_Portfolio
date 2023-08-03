@@ -9,7 +9,7 @@ I’m currently learning **Frontend web development**
 All of my projects are available at [https://github.com/ali-xwave](https://github.com/ali-xwave)
 
 Ask me about: <b>HTML,CSS,Bootstrap,javaScript,ReactJs</b> <br><br>
-How to reach me: asghar.xwave@gmail.com**
+How to reach me: asghar.xwave@gmail.com.
 
 Know about my experiences [https://www.canva.com/design/DAFlHRa8qwI/HZreXZyMewFQ-VTkKiQynA/edit?utm_content=DAFlHRa8qwI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFlHRa8qwI/HZreXZyMewFQ-VTkKiQynA/edit?utm_content=DAFlHRa8qwI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
