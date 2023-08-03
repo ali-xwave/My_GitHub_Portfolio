@@ -1,5 +1,5 @@
 ![logo](https://github.com/ali-xwave/Ali-Asghar/blob/main/GitHub-Banner.Png.png)
-<h1 align="center"><b>Hi, I'm Ali Asghar</b></h1>
+<h1 align="center"><b>Hi 👋 I'm Ali Asghar</b></h1>
 <h3 align="center">A passionate frontend developer from Kingri,Khairpur,Sindh,Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-xwave&label=Profile%20views&color=0e75b6&style=flat" alt="ali-xwave" /> </p>
