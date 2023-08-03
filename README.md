@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-xwave&label=Profile%20views&color=0e75b6&style=flat" alt="ali-xwave" /> </p>
 
-I’m currently learning **Frontend web development**
+I’m currently learning Frontend web development.
 
 All of my projects are available at [https://github.com/ali-xwave](https://github.com/ali-xwave)
 
