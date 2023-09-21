@@ -8,7 +8,7 @@ I’m currently learning Frontend web development.
 
 All of my projects are available at [https://github.com/ali-xwave](https://github.com/ali-xwave)
 
-Ask me about: <b>HTML,CSS,Bootstrap,javaScript,ReactJs</b> <br><br>
+Ask me about: <b>HTML,CSS,Bootstrap,javaScript,React.Js Next.js Responsive Web Design</b> <br><br>
 How to reach me: asghar.xwave@gmail.com.
 
 Know about my experiences ([https://www.canva.com/design/DAFqjW9fq1w/RsFe8xXemAv4aQ9ONiXQ3g/edit])
